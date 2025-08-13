@@ -61,7 +61,7 @@ Hi, I'm **Yushita Kalra** — a passionate **Full-Stack Developer** who loves cr
 ## 📊 GitHub Stats  
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=yushitaaaaaaaa&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=yushitaaaaaaaa&theme=radical" alt="GitHub Streak" />
+<!--   <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=yushitaaaaaaaa&theme=radical" alt="GitHub Streak" /> -->
 </p>
 
 ## 📈 Activity Graph  
